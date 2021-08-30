@@ -1,4 +1,4 @@
-//TCWeatherv5.sqf: v7.0 ~STABLE///
+//TCWeatherv5.sqf: v6.0 ~STABLE///
 
 //** TCWeather by TenuredCLOUD aka "MuRaZorWitchKING" based off of Detrimental Weather effects by JohnO, rewritten by TenuredCLOUD with a GREAT amount of help from my good friend Haleks.**//
 
